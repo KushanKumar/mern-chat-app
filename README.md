@@ -14,3 +14,5 @@
 `npm i`
 
 `npm run start`
+
+### Before running the project set the env variable sample file is shared in ./api
