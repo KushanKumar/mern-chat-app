@@ -8,7 +8,7 @@
 
 `npm run dev`
 
-## To start client
+## To start api
 `cd api`
 
 `npm i`
